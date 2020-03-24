@@ -1,0 +1,35 @@
+D2:
+
+Bug Intro: 10/10
+
+Choice of Bugs: 5/5
+
+Correctness: 25/25
+
+Documentation: 8/10
+
+Test Suite: 2/10 - not a proper way to set up acceptance test, the user is not going to use pytest since they may have no idea how that works
+
+Software Process: 25/25 
+
+Presentation: 12/15
+
+Total: 87/100
+
+I2:
+
+Summary: 0.5/1 - reasons to drop are not clear
+
+demo1: 2/2
+
+explain1: 1/1
+
+test1: 2/2
+
+demo2: 2/2
+
+software process: 2/2
+
+bonus: 0.5/1
+
+Total 10/10
