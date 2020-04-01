@@ -1,0 +1,27 @@
+D3:
+
+Issue Description: 9/10 - UML is a little high-level for selecting feature
+
+Reason for implementention: 10/10
+
+Acceptance Test: 3/5 - Put acceptance in a unit test format
+
+Architecture document: 8/10 - performance/security analysis missing
+
+Presentation and Quality of Writing: 10/10
+
+Total: 40/45
+
+I3: 
+
+First Feature: 2/2
+
+Second Feature: 2/2
+
+Explain Reason: 2/2
+
+Testing: 2/2
+
+architecture: 2/3 - need to describe feature a bit more    
+
+Total: 10/11
