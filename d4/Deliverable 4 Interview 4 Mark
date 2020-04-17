@@ -1,0 +1,32 @@
+I4:
+
+Explain: 1/2 - short and less-detailed explaination
+
+Technical: 2/2
+
+Architecture: 2/2
+
+Tests: 1.5/2 - regression tests are not well explained (could have talked about existing test suites)
+
+Overview: 2/2
+
+Total: 8.5/10
+
+D4:
+
+Implementation: 36/40 - documentation includes first-person narrative, TO-DO comments still in the codebase, not professional
+
+Testing: 16/20 - missing regression test stradegy 
+
+User Guide: 8/10 - guide doesnt not follow pandas user official guide structure
+
+Design Document:  9/10 - small error with sequence diagram
+
+Process: 18/20 - no workflow enfored policy for the team
+
+Presentation and quality of writing: 9/10 - multiple terms could be describe in a more detailed way with examples provided
+
+Total: 96/110
+
+* The professor will mark the "Amount of work done compared with other teams" Section 
+
